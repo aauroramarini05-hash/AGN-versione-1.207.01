@@ -1,0 +1,7 @@
+com.xdustatom.auryxgamenews.app-pngs-0 /data/data/com.termux/files/home/AGN/app/build/generated/res/pngs/debug
+com.xdustatom.auryxgamenews.app-resValues-1 /data/data/com.termux/files/home/AGN/app/build/generated/res/resValues/debug
+com.xdustatom.auryxgamenews.app-packageDebugResources-2 /data/data/com.termux/files/home/AGN/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.xdustatom.auryxgamenews.app-packageDebugResources-3 /data/data/com.termux/files/home/AGN/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.xdustatom.auryxgamenews.app-merged_res-4 /data/data/com.termux/files/home/AGN/app/build/intermediates/merged_res/debug
+com.xdustatom.auryxgamenews.app-debug-5 /data/data/com.termux/files/home/AGN/app/src/debug/res
+com.xdustatom.auryxgamenews.app-main-6 /data/data/com.termux/files/home/AGN/app/src/main/res
